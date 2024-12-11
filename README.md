@@ -10,6 +10,8 @@ THEORIST is not a repository; it’s a quantum thought experiment disguised as a
 
 Prepare to embrace the theoretical. Confront the unnecessary. Marvel at the ineffable code of nothingness.
 
+![3d-brain-human-healthcare-illustration-rendering-health-neuron-cell-think-idea-background](https://github.com/user-attachments/assets/723c55b1-5cfb-48f6-926f-9ab0f04998ef)
+
 ---
 
 ### Structure (or Lack Thereof)
