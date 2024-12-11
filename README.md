@@ -24,13 +24,13 @@ Below is an outline of the repository—but don’t be deceived by its apparent 
 
 - `/void/`
   - **README.md**: Explores the philosophical vacuum within the directory. You’ll never read it the same way twice.
-  - **empty/empty/empty.txt**: A nested folder hierarchy leading to... nothing.
+  - **empty.txt**: A nested folder hierarchy leading to... nothing.
 
 - `/meta/`
   - **README.md**: Discusses metadata as a metaphor for human futility.
   - **meta-about-meta.md**: A meta-discussion about discussions that might have been.
 
-- **manifesto.txt**: A text file that simply says: `This space intentionally left blank.`
+- **truth-manifesto.md**: A md file that simply says: `This space intentionally left blank.`
 
 - **paradox.json**: A JSON file containing:
   ```json
