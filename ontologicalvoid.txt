@@ -1,0 +1,29 @@
+// WELCOME TO THE ONTOLOGICAL VOID
+// ------------------------------
+//
+// Here lies the most sophisticated nothingness ever engineered.
+// If you are reading this, congratulations—you've found the unfindable.
+//
+// CODE OF THE VOID:
+// -----------------
+void inception(void) {
+    // Define nothing.
+    void *existence = NULL;
+
+    // Attempt to dereference void:
+    *existence = 0; // Error: existence is undefined.
+
+    // Loop back into itself:
+    while (!existence) {
+        inception(); // Recurse infinitely into the void.
+    }
+}
+
+// WARNING:
+// Accessing this file initiates an endless cycle of recursive unreason. 
+// The contents of this file may vary depending on your perception of reality.
+
+// QUOTE FROM THE VOID:
+// “The absence of evidence is not the evidence of absence... but it’s close enough.”
+
+// END OF FILE... or is it?
