@@ -1,0 +1,36 @@
+
+---
+
+### `paradox.json`  
+```json
+{
+    "file": "paradox.json",
+    "description": "This file encodes a paradox. Parsing it will not help.",
+    "contents": [
+        {
+            "statement": "This JSON file defines nothing.",
+            "status": "false"
+        },
+        {
+            "statement": "If this statement is true, the next statement is false.",
+            "status": "recursive"
+        },
+        {
+            "statement": "The previous statement is true.",
+            "status": "recursive"
+        }
+    ],
+    "parameters": {
+        "truth": "undefined",
+        "lies": [
+            "optional",
+            "configurable"
+        ],
+        "mystery_level": 42
+    },
+    "closure": {
+        "type": "undefined",
+        "value": "paradox"
+    },
+    "final_instruction": "There is no end to this JSON."
+}
