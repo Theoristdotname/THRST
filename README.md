@@ -81,7 +81,7 @@ Issue: "Does 0 divide the infinite?"
 
 ---
 
-### ⚠ Disclaimer
+### Disclaimer
 
 The creators of THEORIST are not liable for:
 
@@ -93,7 +93,7 @@ By engaging with THEORIST, you agree to be bound by its non-binding terms of non
 
 ---
 
-###  Final Thoughts
+### Final Thoughts
 
 THEORIST challenges you to let go of logic. In a universe full of utilitarian software, be the repository that does absolutely nothing. Allen Newell and Herbert A. Simon sought to make machines think—we invite you to do the opposite. Forget, unlearn, and bask in the glory of theoretical absurdity.
 
