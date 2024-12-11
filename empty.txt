@@ -1,0 +1,21 @@
+#!/bin/bash
+# Welcome to the Void. This script creates nothing, interacts with nothing,
+# and exists purely for the joy of being run pointlessly.
+
+# Step 1: Announce the emptiness.
+echo "Initializing void sequence..."
+sleep 1
+
+# Step 2: Simulate progress in achieving nothing.
+for i in {1..5}
+do
+  echo "[${i}/5] Current task: Doing absolutely nothing."
+  sleep 1
+done
+
+# Step 3: Create a file that doesn't exist in a directory that isn't there.
+echo "Attempting to write to /dev/empty/empty... (failed)"
+
+# Step 4: Exit gracefully.
+echo "The void has been maintained. Nothing has been accomplished."
+exit 0
